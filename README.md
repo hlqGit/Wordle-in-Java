@@ -1,5 +1,5 @@
-# wordle-in-java
-By Justin (hlqGit)
+# Wordle-in-Java
+By hlq
 
 This is a project I have been working on for a few days.
 I am doing this to practice coding.
